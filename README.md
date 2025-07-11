@@ -12,6 +12,9 @@ A simple React + Vite project setup.
 1. Click the green **`Code`** button at the top.
 2. Select **`Download ZIP`**.
 3. Unzip it on your computer.
+4. Open the folder in the vs code and run "npm install
+" in the terminal
+5. to run the project use command "npm run dev"
 
 #### Option 2: Clone with Git (recommended)
 ```bash
